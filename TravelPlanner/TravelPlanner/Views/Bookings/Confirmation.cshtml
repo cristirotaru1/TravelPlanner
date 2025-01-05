@@ -1,0 +1,12 @@
+﻿@model TravelPlanner.Models.Bookings
+
+@{
+    ViewBag.Title = "Confirmation";
+}
+
+<h2 style="color: #333; font-size: 24px; margin-bottom: 10px;">Confirmation</h2>
+
+<p style="color: #666; font-size: 16px; margin-bottom: 10px;">Check-in Date: <span style="font-size: 14px; color: #4CAF50;">@Model.CheckInDate</span></p>
+<p style="color: #666; font-size: 16px; margin-bottom: 10px;">Check-out Date: <span style="font-size: 14px; color: #4CAF50;">@Model.CheckOutDate</span></p>
+<p style="color: #666; font-size: 16px; margin-bottom: 10px;">Total Price: <span style="font-size: 14px; color: #4CAF50;">@Model.TotalPrice</span></p>
+<p style="color: #666; font-size: 16px; margin-bottom: 10px;">Created At: <span style="font-size: 14px; color: #4CAF50;">@Model.CreatedAt</span></p>
