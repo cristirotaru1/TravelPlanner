@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\IS\\Proiect IS\\TravelPlanner-main\\TravelPlanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F290E5E1-33D5-42D2-92EA-7CC98B57685F}|TravelPlanner\\TravelPlanner.csproj|c:\\is\\proiect is\\travelplanner-main\\travelplanner\\travelplanner\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F290E5E1-33D5-42D2-92EA-7CC98B57685F}|TravelPlanner\\TravelPlanner.csproj|solutionrelative:travelplanner\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F290E5E1-33D5-42D2-92EA-7CC98B57685F}|TravelPlanner\\TravelPlanner.csproj|c:\\is\\proiect is\\travelplanner-main\\travelplanner\\travelplanner\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F290E5E1-33D5-42D2-92EA-7CC98B57685F}|TravelPlanner\\TravelPlanner.csproj|solutionrelative:travelplanner\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F290E5E1-33D5-42D2-92EA-7CC98B57685F}|TravelPlanner\\TravelPlanner.csproj|C:\\IS\\Proiect IS\\TravelPlanner-main\\TravelPlanner\\travelplanner\\controllers\\reviewactivitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F290E5E1-33D5-42D2-92EA-7CC98B57685F}|TravelPlanner\\TravelPlanner.csproj|solutionrelative:travelplanner\\controllers\\reviewactivitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F290E5E1-33D5-42D2-92EA-7CC98B57685F}|TravelPlanner\\TravelPlanner.csproj|c:\\is\\proiect is\\travelplanner-main\\travelplanner\\travelplanner\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F290E5E1-33D5-42D2-92EA-7CC98B57685F}|TravelPlanner\\TravelPlanner.csproj|solutionrelative:travelplanner\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F290E5E1-33D5-42D2-92EA-7CC98B57685F}|TravelPlanner\\TravelPlanner.csproj|c:\\is\\proiect is\\travelplanner-main\\travelplanner\\travelplanner\\controllers\\reviewaccommodationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F290E5E1-33D5-42D2-92EA-7CC98B57685F}|TravelPlanner\\TravelPlanner.csproj|solutionrelative:travelplanner\\controllers\\reviewaccommodationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F290E5E1-33D5-42D2-92EA-7CC98B57685F}|TravelPlanner\\TravelPlanner.csproj|c:\\is\\proiect is\\travelplanner-main\\travelplanner\\travelplanner\\views\\reviewaccommodation\\displayreviewaccommodation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F290E5E1-33D5-42D2-92EA-7CC98B57685F}|TravelPlanner\\TravelPlanner.csproj|solutionrelative:travelplanner\\views\\reviewaccommodation\\displayreviewaccommodation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F290E5E1-33D5-42D2-92EA-7CC98B57685F}|TravelPlanner\\TravelPlanner.csproj|c:\\is\\proiect is\\travelplanner-main\\travelplanner\\travelplanner\\views\\reviewactivity\\displayreviewactivity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F290E5E1-33D5-42D2-92EA-7CC98B57685F}|TravelPlanner\\TravelPlanner.csproj|solutionrelative:travelplanner\\views\\reviewactivity\\displayreviewactivity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F290E5E1-33D5-42D2-92EA-7CC98B57685F}|TravelPlanner\\TravelPlanner.csproj|C:\\IS\\Proiect IS\\TravelPlanner-main\\TravelPlanner\\travelplanner\\models\\accommodation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F290E5E1-33D5-42D2-92EA-7CC98B57685F}|TravelPlanner\\TravelPlanner.csproj|solutionrelative:travelplanner\\models\\accommodation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.css",
+              "DocumentMoniker": "C:\\IS\\Proiect IS\\TravelPlanner-main\\TravelPlanner\\TravelPlanner\\HomePage.css",
+              "RelativeDocumentMoniker": "TravelPlanner\\HomePage.css",
+              "ToolTip": "C:\\IS\\Proiect IS\\TravelPlanner-main\\TravelPlanner\\TravelPlanner\\HomePage.css",
+              "RelativeToolTip": "TravelPlanner\\HomePage.css",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-06T23:55:12.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\IS\\Proiect IS\\TravelPlanner-main\\TravelPlanner\\TravelPlanner\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TravelPlanner\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\IS\\Proiect IS\\TravelPlanner-main\\TravelPlanner\\TravelPlanner\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "TravelPlanner\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T23:54:17.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\IS\\Proiect IS\\TravelPlanner-main\\TravelPlanner\\TravelPlanner\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "TravelPlanner\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\IS\\Proiect IS\\TravelPlanner-main\\TravelPlanner\\TravelPlanner\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "TravelPlanner\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T23:54:10.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DisplayReviewActivity.cshtml",
+              "DocumentMoniker": "C:\\IS\\Proiect IS\\TravelPlanner-main\\TravelPlanner\\TravelPlanner\\Views\\ReviewActivity\\DisplayReviewActivity.cshtml",
+              "RelativeDocumentMoniker": "TravelPlanner\\Views\\ReviewActivity\\DisplayReviewActivity.cshtml",
+              "ToolTip": "C:\\IS\\Proiect IS\\TravelPlanner-main\\TravelPlanner\\TravelPlanner\\Views\\ReviewActivity\\DisplayReviewActivity.cshtml",
+              "RelativeToolTip": "TravelPlanner\\Views\\ReviewActivity\\DisplayReviewActivity.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T23:36:19.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisplayReviewAccommodation.cshtml",
+              "DocumentMoniker": "C:\\IS\\Proiect IS\\TravelPlanner-main\\TravelPlanner\\TravelPlanner\\Views\\ReviewAccommodation\\DisplayReviewAccommodation.cshtml",
+              "RelativeDocumentMoniker": "TravelPlanner\\Views\\ReviewAccommodation\\DisplayReviewAccommodation.cshtml",
+              "ToolTip": "C:\\IS\\Proiect IS\\TravelPlanner-main\\TravelPlanner\\TravelPlanner\\Views\\ReviewAccommodation\\DisplayReviewAccommodation.cshtml",
+              "RelativeToolTip": "TravelPlanner\\Views\\ReviewAccommodation\\DisplayReviewAccommodation.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvzIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T23:17:28.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewAccommodationController.cs",
+              "DocumentMoniker": "C:\\IS\\Proiect IS\\TravelPlanner-main\\TravelPlanner\\TravelPlanner\\Controllers\\ReviewAccommodationController.cs",
+              "RelativeDocumentMoniker": "TravelPlanner\\Controllers\\ReviewAccommodationController.cs",
+              "ToolTip": "C:\\IS\\Proiect IS\\TravelPlanner-main\\TravelPlanner\\TravelPlanner\\Controllers\\ReviewAccommodationController.cs",
+              "RelativeToolTip": "TravelPlanner\\Controllers\\ReviewAccommodationController.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAIwJIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T23:24:52.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewActivityController.cs",
+              "DocumentMoniker": "C:\\IS\\Proiect IS\\TravelPlanner-main\\TravelPlanner\\TravelPlanner\\Controllers\\ReviewActivityController.cs",
+              "RelativeDocumentMoniker": "TravelPlanner\\Controllers\\ReviewActivityController.cs",
+              "ToolTip": "C:\\IS\\Proiect IS\\TravelPlanner-main\\TravelPlanner\\TravelPlanner\\Controllers\\ReviewActivityController.cs",
+              "RelativeToolTip": "TravelPlanner\\Controllers\\ReviewActivityController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAKkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T21:44:53.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Accommodation.cs",
+              "DocumentMoniker": "C:\\IS\\Proiect IS\\TravelPlanner-main\\TravelPlanner\\TravelPlanner\\Models\\Accommodation.cs",
+              "RelativeDocumentMoniker": "TravelPlanner\\Models\\Accommodation.cs",
+              "ToolTip": "C:\\IS\\Proiect IS\\TravelPlanner-main\\TravelPlanner\\TravelPlanner\\Models\\Accommodation.cs",
+              "RelativeToolTip": "TravelPlanner\\Models\\Accommodation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:57:48.246Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
