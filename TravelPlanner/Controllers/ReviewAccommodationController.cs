@@ -172,8 +172,6 @@ namespace TravelPlanner.Controllers
                 Session["AccommodationId"] = accommodationId;
             }
 
-            System.Diagnostics.Debug.WriteLine(reviewId);
-
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 connection.Open();

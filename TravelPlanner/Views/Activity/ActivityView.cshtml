@@ -32,7 +32,7 @@
 @using (Html.BeginForm("SearchActivity", "Activity", FormMethod.Get))
 {
     <div class="form-group">
-        @Html.Label("Search Activities:")
+        @Html.Label("Search Activities: (by name)")
         @Html.TextBox("searchActivity", null, new { @class = "form-control" })
     </div>
     <button type="submit" class="btn btn-primary">Search</button>
